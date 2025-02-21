@@ -1,4 +1,4 @@
-const targetText = "The quick brown fox jumps over the lazy dog.";
+const targetText = "public static void main(String[] args)";
 let startTime = null;
 
 document.getElementById("typing-input").addEventListener("input", function(e) {
